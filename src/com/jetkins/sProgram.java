@@ -10,7 +10,7 @@ public class sProgram {
     
     public static void main(String[] args) {
         try {
-            File f = new File("Sample.txt");
+            File f = new File("D:\\Users\\annap\\workspace\\jetkins\\Sample");
             Scanner sc;
             sc = new Scanner(f);
             // sc.useDelimiter("[^a-zA-Z']+");
